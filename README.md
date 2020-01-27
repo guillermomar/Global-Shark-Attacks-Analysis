@@ -2,7 +2,7 @@
 
 
 
-## Goal of the proyect
+## Overview
 
 This proyect aims to analyze a set of data with informartion on shark attacks in recent centuries and get some insights.
 
