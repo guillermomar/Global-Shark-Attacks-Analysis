@@ -42,5 +42,6 @@ Change of the display options of columns and rows for data frames.
 **Hypothesis Verification.**
 
 
+-----------------------------------------
 For in depth information, see <a href="https://github.com/guillermomar/Global-Shark-Attacks-Analysis/blob/global-shark-attacks/Data%20Shark.ipynb">Data Shark.ipynb</a>.
 
